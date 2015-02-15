@@ -1,0 +1,46 @@
+package com.yamltest;
+
+public class CricketdataConstants {
+	public static final int YEAR1 = 2008;
+	public static final int YEAR2 = 2009;
+	public static final int YEAR3 = 2010;
+	public static final int YEAR4 = 2011;
+	public static final int YEAR5 = 2012;
+	public static final int YEAR6 = 2013;
+	public static final int YEAR7 = 2014;
+	public static final String CSK = "Chennai Super Kings";
+	public static final String RCB = "Royal Challengers Bangalore";
+	public static final String KX1P = "Kings XI Punjab";
+	public static final String KKR = "Kolkata Knight Riders";
+	public static final String DD = "Delhi Daredevils";
+	public static final String RR = "Rajasthan Royals";
+	public static final String DC = "Deccan Chargers";
+	public static final String MI = "Mumbai Indians";
+	public static final String SHR = "Sunrisers Hyderabad";
+	public static final String KTK = "Kochi Tuskers Kerala";
+	public static final String PWI = "Pune Warriors India";
+	public static final String PW = "Pune Warriors";
+	public static final String NR = "Tie";
+	public static final String INNINGS = "innings";
+	public static final String MATCHINFO = "info";
+	public static final String MATCHDATE = "dates";
+	public static final String MATCHOUTCOME = "outcome";
+	public static final String MATCHOUTCOMERESULT = "result";
+	public static final String TEAMS = "teams";
+	public static final String BATSMAN = "batsman";
+	public static final String BOWLER = "bowler";
+	public static final String WICKETS = "wickets";
+	public static final String RUNS = "runs";
+	public static final String MANOFMATCH = "player_of_match";
+	public static final String WINNER =	"winner";
+	public static final String 	FIELDERS = "fielders";
+	public static final String 	FIRSTINNINGS = "1st innings";
+	public static final String 	SECONDINNINGS = "2nd innings";
+	public static final String 	TEAM = "team";
+	public static final String 	DELIVERIES = "deliveries";
+	public static final String 	EXTRAS =  "extras";
+	public static final String 	TOTAL = "total";
+	public static final String 	NONSTRIKER ="non_striker";
+	public static final String 	KIND ="kind";
+	public static final String 	PLAYEROUT="player_out";
+}
